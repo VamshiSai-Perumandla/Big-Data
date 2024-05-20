@@ -66,22 +66,6 @@ For a line of text: `@@4004141 Guest Editors <p> There can only be disaster aris
 
 Processed line should be: `guest editors there can only be disaster arising from unawareness of the causalities…`
 
-## Directory Structure
-
-hw1-<netid>/
-    ├── input/
-    │   └── hw1.txt
-    ├── output/
-    ├── screenshots/
-    │   └── hadoop_version.jpg
-    │   └── create_directory.jpg
-    │   └── copy_files.jpg
-    ├── src/
-    │   └── WordCount.java (or WordCount.py)
-    │   └── NGramCount.java (or NGramCount.py)
-    ├── README.md
-
-
 ## How to Run
 
 1. **Compile (for Java):**
